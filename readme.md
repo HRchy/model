@@ -1,6 +1,6 @@
 # Create a python environment
 
-`python -m venv ven`
+`python -m venv venv`
 
 # Activate the python environment
 
