@@ -4,3 +4,4 @@ numpy
 seaborn
 spicy
 scikit-learn
+xgboost
